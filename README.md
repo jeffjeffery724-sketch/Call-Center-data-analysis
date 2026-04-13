@@ -8,17 +8,17 @@ This dashboard shows how well a call center is performing. It helps you understa
 ⏱️ Call Duration (26.26): Average time spent on calls
 😊 Positive Sentiment (10): Number of positive customer interactions
 ## 📌 What You Can See
-🏙️ City by Reason: 
+🏙️ City by Reason:  
 Shows why customers are contacting support (billing, payments, outages)  
-🧠 Sentiments:
+🧠 Sentiments:  
 Shows if customers feel positive, neutral, or negative  
-📍 CSAT by Call Center:
+📍 CSAT by Call Center:  
 Compares customer satisfaction across different locations  
-📡 CSAT by Channel:
+📡 CSAT by Channel:  
 Shows which channel performs best (call, chatbot, web, email)  
-🗺️ State by Reason:
+🗺️ State by Reason:  
 Shows which states have more customer issues  
-💬 Sentiments by Channel:
+💬 Sentiments by Channel:  
 Compares customer feelings across channels  
 ## 🎛️ Filter
 You can filter data by:
